@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 799,
+    "category": "Electronics",
+    "stock": 45
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "price": 2499,
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "name": "Notebook",
+    "price": 120,
+    "category": "Stationery",
+    "stock": 150
+  },
+  {
+    "id": 4,
+    "name": "Water Bottle",
+    "price": 350,
+    "category": "Home & Kitchen",
+    "stock": 75
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "price": 3499,
+    "category": "Footwear",
+    "stock": 18
+  }
+]
